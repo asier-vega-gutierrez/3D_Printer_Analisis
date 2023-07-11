@@ -1,0 +1,3 @@
+https://github.com/joanna-/3D-Printing-Data
+https://paperswithcode.com/dataset/3d-printing-data
+https://github.com/sandbornm/3D-Printing-Data
