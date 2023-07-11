@@ -1,6 +1,6 @@
 
 
-## Analisis y optimizacion de mauina de impresion 3D con RapidMiner
+## Analisis y optimizacion de maquina de impresion 3D con RapidMiner
 <ul>
     <li>Fechas: Marzo 2023 - Junio 2023</li>
     <li>Descripción: Predecir la calidad de la pieza producida, para conocer de antemano si la máquina está realizando bien el proceso de impresión, teniendo en cuenta el histórico de procesos realizados con el mismo diseño y el proceso que se está realizando. Por otro lado, para los casos en los que la calidad prediga una pieza defectuosa, describir el motivo por el que ocurre, para así poder optimizar la máquina y adaptarla a ese diseño (mejora continua).
